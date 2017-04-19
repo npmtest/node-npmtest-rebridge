@@ -1,4 +1,7 @@
-# test coverage for  [rebridge (v2.2.0)](https://github.com/CapacitorSet/rebridge)  [![npm package](https://img.shields.io/npm/v/npmtest-rebridge.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rebridge) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rebridge.svg)](https://travis-ci.org/npmtest/node-npmtest-rebridge)
+# npmtest-rebridge
+
+#### basic test coverage for  [rebridge (v2.2.0)](https://github.com/CapacitorSet/rebridge)  [![npm package](https://img.shields.io/npm/v/npmtest-rebridge.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rebridge) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rebridge.svg)](https://travis-ci.org/npmtest/node-npmtest-rebridge)
+
 #### A transparent bridge to Redis.
 
 [![NPM](https://nodei.co/npm/rebridge.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/rebridge)
